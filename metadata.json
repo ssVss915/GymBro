@@ -1,0 +1,6 @@
+{
+  "name": "GymBro AI Motion Tracker",
+  "description": "Interactive AI-powered motion tracking workout coach and gym trainer.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
